@@ -1,4 +1,4 @@
-def add(x,y):
-    return x+y
-result= add(3,5)
-print(result)
+class Ucus():
+    havayolu="THY"
+ucus1= Ucus()
+print(ucus1.havayolu)
